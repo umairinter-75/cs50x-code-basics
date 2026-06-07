@@ -15,7 +15,10 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * string.c - A program that prints string char by char using strlen
 * uppercase.c - A program that converts the input characters provided by the user into output of uppercase format
 * greet.c - A program that greets the user when the input is provided in the terminal window
-* status.c - A program that triggers a statement "Missing command-line argument" when the input is not provided by the user in the terminal window 
+* status.c - A program that triggers a statement "Missing command-line argument" when the input is not provided by the user in the terminal window
+* print.c - A program that that takes a string as input and prints it character-by-character.
+* reverse.c - A program  that takes a string as input,and reverses it.
+
 
 ## How to run them
 Compile using:
