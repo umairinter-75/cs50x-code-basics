@@ -18,6 +18,7 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * status.c - A program that triggers a statement "Missing command-line argument" when the input is not provided by the user in the terminal window
 * print.c - A program that that takes a string as input and prints it character-by-character.
 * reverse.c - A program  that takes a string as input,and reverses it.
+* alphabetical.c - A program that prints “Yes” if a lowercase string’s characters are in alphabetical order, and “No” if they are not. 
 
 
 ## How to run them
