@@ -52,13 +52,7 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * copy.csv - A program that that creates the copy of phonebook.csv.
 * concatenate.c - A program which contains a function named "concat" that takes two strings and returns a concatenated version of the two strings.
 * create.c - A debugging program that creates the file given as input at the command-line. THe program will give '0'errors during debugging using the command "valgrind ./create test.c".
-
-
-
-
-
-
-
+* pdf.c - A program that  checks whether a file, passed in as a command-line argument, is (likely) a PDF.
 
 
 
