@@ -63,6 +63,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * list6.c - A program that creates a linked list of integers, prints them, and then frees the memory allocated for the list.
 * hash.c - A program that takes a word and returns a hash value based on the first two letters of the word. The hash value is calculated by converting the first two letters to uppercase, subtracting 'A' from each letter to get their position in the alphabet (0-25), and then combining them into a single integer value. If the input word is NULL or empty, it returns -2. If the first two characters are not alphabetic, it returns -1.
 
+### Week 6
+* hello.py - THe classic hello program made using python language.
+
 
 
 
