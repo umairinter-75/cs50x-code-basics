@@ -1,4 +1,4 @@
-# CS50x C Programs
+# CS50x Coding Programs
 
 This repository contains the C programs I am writing while taking Harvard's CS50x course.
 
